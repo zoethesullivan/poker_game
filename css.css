@@ -1,0 +1,11 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  color: hsl(43, 74%, 49%); 
+}
+
+#message-el {
+  font-style: italic;
+}
