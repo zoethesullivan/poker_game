@@ -1,6 +1,6 @@
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  background-color: green;
+  background-color: #008000;
   background-image: URL(table.png);
   background-size: cover;
   text-align: center;
@@ -12,8 +12,14 @@ h1 {
   color: hsl(43, 74%, 49%); 
 }
 button {
-  max-width: 6em;
+  color: #016f32;
+  background-color: #daa520;
+  width: 150px;
+  border: none;
+  border-radius: 3px;
   align-self: center;
+  padding: 5px;
+ 
 
 }
 
@@ -25,6 +31,7 @@ button {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-content: center;
   max-height: 100vh;
   max-width: 90vh;
   margin: auto;
