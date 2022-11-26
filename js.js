@@ -1,5 +1,5 @@
 let firstCard = 10
-let secondCard = 4
+let secondCard = 11
 let sum = firstCard + secondCard
 let hasBlackJack = false
 let isAlive = true
@@ -12,11 +12,11 @@ function startGame() {
   if (sum <= 20) {
     message = "Do you want to draw a new card?"
   } else if (sum === 21) {
-    message = "You WIN!"
+    message = "Blackjack!"
     hasBlackJack = true
   } else {
     message = "Busted!"
     isAlive = false
   }
-  messageEl.textContent() = message
+  messageEl.textContent = message
 }
