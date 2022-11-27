@@ -1,9 +1,8 @@
-let firstCard = getRandomCard()
-let secondCard = getRandomCard()
-let cards = [firstCard, secondCard] //array of cards delt
-let sum = firstCard + secondCard
+
+let cards = [] //array of cards delt
+let sum = 0
 let hasBlackJack = false
-let isAlive = true
+let isAlive = false
 let message = ""
 
 let messageEl = document.getElementById('message-el')
