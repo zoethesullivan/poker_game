@@ -15,8 +15,14 @@ function startGame() {
 }
 
 function getRandomCard() {
-  let randomCard = Math.floor(Math.random() * 6) + 1 ;
-  return randomCard;
+  let randomNumber = Math.floor(Math.random() * 13) + 1 ;
+  if (randomNumber > 10) {
+    return 10
+  } else if (randomNumber === 1) {
+    return 11
+  } else {
+    return randomNumber
+  }
 }
 
 function renderGame() {
