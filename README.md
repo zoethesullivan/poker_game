@@ -1,17 +1,13 @@
 
-# Poker Game (Scrimbasc Lesson)
+# Poker Game (Scrimba Lesson)
 
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
-
- [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-
-Module completed:
-
-Course by Scrimba -
-*[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)*
+<!-- [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)-->
 
 </br>
+
+Project completed per directions from Scrimba's course [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)
 
 ## Description
 
@@ -37,12 +33,13 @@ Description
 
 ## Bugs
 
-Bugs
+![image](img/bug_2022.11.28.png)
 
 ## To-do
 
 - Add screenshot of application
 - Add additional technologies used with icon
+- Move table.png into img folder and rename pathways
 
 </br>
 
