@@ -1,8 +1,8 @@
 let player = {
-  name: "-",
+  name: "Bubba",
   chips: 10
 }
-let cards = [] //array of cards delt
+let cards = [] //array of cards
 let sum = 0
 let hasBlackJack = false
 let isAlive = false
@@ -11,6 +11,10 @@ let message = ""
 let messageEl = document.getElementById('message-el')
 let sumEl = document.getElementById('sum-el')
 let cardsEl = document.getElementById('cards-el')
+let playerEl = document.getElementById('player-el')
+
+playerEl.textContent = player.name
+playerEl.textContent += player.chips
 
 function startGame() {
   isAlive = true
