@@ -1,4 +1,7 @@
-
+let player = {
+  name: "-",
+  chips: 10
+}
 let cards = [] //array of cards delt
 let sum = 0
 let hasBlackJack = false
