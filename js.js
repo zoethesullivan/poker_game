@@ -13,7 +13,18 @@ let sumEl = document.getElementById('sum-el')
 let cardsEl = document.getElementById('cards-el')
 let playerEl = document.getElementById('player-el')
 
-playerEl.textContent = player.name + ": $" + player.chips
+playerEl.textContent = player.name + ": $" + player.chips;
+
+function getRandomCard() {
+  let randomNumber = Math.floor(Math.random() * 13) + 1
+  if (randomNumber > 10) {
+    return 10
+  } else if (randomNumber === 1) {
+    return 11
+  } else {
+    return randomNumber
+  }
+}
 
 function startGame() {
   isAlive = true
@@ -24,16 +35,6 @@ function startGame() {
   renderGame()
 }
 
-function getRandomCard() {
-  let randomNumber = Math.floor(Math.random() * 13) + 1 ;
-  if (randomNumber > 10) {
-    return 10
-  } else if (randomNumber === 1) {
-    return 11
-  } else {
-    return randomNumber
-  }
-}
 
 function renderGame() {
   cardsEl.textContent = "Cards: "
@@ -41,7 +42,6 @@ function renderGame() {
   for (let i = 0; i < cards.length; i++) {
     cardsEl.textContent += cards[i] + " " 
   }
-  
   sumEl.textContent = "sum: " + sum
   if (sum <= 20) {
     message = "Do you want to draw a new card?"
@@ -61,5 +61,4 @@ function newCard() {
     sum += card
     cards.push(card)
   }
-  
 }
