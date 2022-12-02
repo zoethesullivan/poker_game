@@ -1,17 +1,15 @@
 
-# Poker Game (Scrimba Lesson)
+# Blackjack  Game [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+> Simple web-app Blackjack game written in JavaScript.
 
-<!-- [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)-->
+The Blackjack Application generates random cards as requested by user. After user reaches "Blackjack" or 21, no more cards can be drawn.
 
-</br>
+Project completed as part of Scrimba's [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript) course.
 
-Project completed per directions from Scrimba's course [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)
+## Screen capture 2202/12/01
 
-## Description
-
-Description
+![](img/Screenshot_20221201_142735.png)
 
 </br>
 
@@ -19,27 +17,33 @@ Description
 
 ![Linux](https://svgshare.com/i/Zhy.svg) ![Ubuntu](https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=ffffff) ![Visual Studio Code](https://img.shields.io/badge/--006ACC?logo=visual%20studio%20code&logoColor=ffffff)
 
+### Languages  Practiced Concepts
 
-### Languages
-
-- JavaScript
 - HTML/CSS
+- JavaScript
+  - Arrays
+  - Objects
+  - Booleans
+  - If/else statements
+  - Comparison operators
+  - Logical operators
+  - For loops
+  - The Math object
+  - Return statements
 
 ### Resources
 
-[Markdown Images](https://simpleicons.org/)
+- Simple Icons - [Markdown Images](https://simpleicons.org/)
+
+- GitHub - hackergrrl [art-of-readme](https://github.com/hackergrrl/art-of-readme)
 
 </br>
 
-## Bugs
-
-![image](img/bug_2022.11.28.png)
-
 ## To-do
 
-- Add screenshot of application
-- Add additional technologies used with icon
-- Move table.png into img folder and rename pathways
+- Adjust CSS styling to allow for a more blackjack table-like experience
+- Retake screenshot of application for better readme.md readability
+- Correct formatting of citation for hackergrrl in resource above
 
 </br>
 
