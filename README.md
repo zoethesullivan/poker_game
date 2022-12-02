@@ -7,22 +7,20 @@ The Blackjack Application generates random cards as requested by user. After use
 
 Project completed as part of Scrimba's [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript) course.
 
-## Screen capture 2202/12/01
-
-![](img/Screenshot_20221201_142735.png)
-
 </br>
+
+<figure><img src="img/Screenshot_20221201_142735.png" width="550" alt></figure>
 
 ## Technologies Used
 
 ![Linux](https://svgshare.com/i/Zhy.svg) ![Ubuntu](https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=ffffff) ![Visual Studio Code](https://img.shields.io/badge/--006ACC?logo=visual%20studio%20code&logoColor=ffffff)
 
-### Languages  Practiced Concepts
+### Languages / Practiced Concepts
 
 - HTML/CSS
 - JavaScript
   - Arrays
-  - Objects
+  - Objects- linuxpip.org [How to change image size in Markdown](https://linuxpip.org/markdown-change-image-size/)
   - Booleans
   - If/else statements
   - Comparison operators
@@ -33,9 +31,13 @@ Project completed as part of Scrimba's [Learn JavaScript for free](https://scrim
 
 ### Resources
 
-- Simple Icons - [Markdown Images](https://simpleicons.org/)
+- linuxpip.org [How to change image size in Markdown](https://linuxpip.org/markdown-change-image-size/)
+
+- Simple Icons  [Markdown Images](https://simpleicons.org/)
 
 - GitHub - hackergrrl [art-of-readme](https://github.com/hackergrrl/art-of-readme)
+
+- GitHub - David Anson [markdownlint](https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md#md033)
 
 </br>
 
