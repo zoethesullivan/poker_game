@@ -3,7 +3,7 @@
 
 > Simple web-app Blackjack game written in JavaScript.
 
-The Blackjack Application generates random cards as requested by user. After user reaches "Blackjack" or 21, no more cards can be drawn.
+The [Blackjack Application](elaborate-palmier-dc5f07.netlify.app/) generates random cards as requested by user. After user reaches "Blackjack" or 21, no more cards can be drawn.
 
 Project completed as part of Scrimba's [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript) course.
 
