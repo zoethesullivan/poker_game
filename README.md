@@ -43,8 +43,9 @@ Project completed as part of Scrimba's [Learn JavaScript for free](https://scrim
 
 ## To-do
 
+- Create function to allow for a win-senario by adding in dealers hand and a "win" display
 - Adjust CSS styling to allow for a more blackjack table-like experience
-- Retake screenshot of application for better readme.md readability
+- ~~Retake screenshot of application for better readme.md readability~~
 - Correct formatting of citation for hackergrrl in resource above
 
 </br>
