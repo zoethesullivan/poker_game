@@ -24,6 +24,11 @@ button {
   margin: 2px auto;
 }
 
+div {
+  background-color: hsla(218, 10%, 22%, .6);
+}
+
+
 #message-el {
   font-style: italic;
 }
