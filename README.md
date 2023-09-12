@@ -13,7 +13,9 @@ Project completed as part of Scrimba's [Learn JavaScript for free](https://scrim
 
 ## Technologies Used
 
-![Linux](https://svgshare.com/i/Zhy.svg) ![Ubuntu](https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=ffffff) ![Visual Studio Code](https://img.shields.io/badge/--006ACC?logo=visual%20studio%20code&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=ffffff) 
+
+![Visual Studio Code](https://img.shields.io/badge/--006ACC?logo=visual%20studio%20code&logoColor=ffffff)
 
 ### Languages / Practiced Concepts
 
@@ -43,9 +45,9 @@ Project completed as part of Scrimba's [Learn JavaScript for free](https://scrim
 
 ## To-do
 
+- Have 'start game' Button change to "restart game" after being clicked
 - Create function to allow for a win-senario by adding in dealers hand and a "win" display
 - Adjust CSS styling to allow for a more blackjack table-like experience
-- ~~Retake screenshot of application for better readme.md readability~~
 - Correct formatting of citation for hackergrrl in resource above
 
 </br>
