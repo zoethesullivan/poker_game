@@ -1,7 +1,7 @@
 
-# Blackjack  Game [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+# Blackjack  Game - [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
-> Simple web-app Blackjack game written in JavaScript.
+> Simple web-app Blackjack game written in JavaScript. This project is no longer maintained as of 2023.
 
 The [Blackjack Application](elaborate-palmier-dc5f07.netlify.app/) generates random cards as requested by user. After user reaches "Blackjack" or 21, no more cards can be drawn.
 
@@ -13,9 +13,7 @@ Project completed as part of Scrimba's [Learn JavaScript for free](https://scrim
 
 ## Technologies Used
 
-![Ubuntu](https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=ffffff) 
-
-![Visual Studio Code](https://img.shields.io/badge/--006ACC?logo=visual%20studio%20code&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=ffffff) ![Visual Studio Code](https://img.shields.io/badge/--006ACC?logo=visual%20studio%20code&logoColor=ffffff)
 
 ### Languages / Practiced Concepts
 
