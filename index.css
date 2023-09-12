@@ -10,7 +10,6 @@ body {
 
 h1 {
   color: hsl(43, 74%, 49%); 
-  margin-top: 2em;
 }
 
 button {
@@ -28,6 +27,7 @@ button {
 div {
   background-color: hsla(282, 33%, 14%, 0.7);
   margin: auto;
+  margin-top: 2em;
   padding: 2em;
   max-width: fit-content;
 }
