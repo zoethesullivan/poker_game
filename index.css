@@ -5,7 +5,7 @@ body {
   background-size: cover;
   text-align: center;
   color: #ffffff;
-  font-weight: 800;
+  font-weight: 900;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 
 button {
   color: #016f32;
-  background-color: #daa520;
+  background-color: #fbbe24;
   width: 150px;
   font-size: 1rem;
   font-weight: bold;
@@ -28,7 +28,7 @@ div {
   background-color: hsla(282, 33%, 14%, 0.7);
   margin: auto;
   margin-top: 2em;
-  padding: 2em;
+  padding: 1em;
   max-width: fit-content;
 }
 
