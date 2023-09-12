@@ -25,8 +25,9 @@ button {
 }
 
 div {
-  background-color: hsla(218, 10%, 22%, .6);
+  background-color: hsla(282, 33%, 14%, 0.7);
   margin: auto;
+  padding: 2em;
 }
 
 
